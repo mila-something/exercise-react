@@ -1,0 +1,12 @@
+
+.container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.mainStyle {
+    margin: 2px auto;
+    padding: 10px;
+    border: 1px solid gray;
+}
